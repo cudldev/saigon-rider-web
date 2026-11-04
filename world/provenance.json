@@ -1,0 +1,17 @@
+{
+  "source": "OpenStreetMap API 0.6",
+  "url": "https://api.openstreetmap.org/api/0.6/map?bbox=106.6331,10.7937,106.6402,10.8005",
+  "downloadedAt": "2026-11-03T19:44:16.6659154Z",
+  "timestampPrecision": "snapshot file creation time; database replication timestamp unavailable in API response",
+  "license": "ODbL-1.0",
+  "attribution": "© OpenStreetMap contributors",
+  "licenseUrl": "https://www.openstreetmap.org/copyright",
+  "derivedDatabase": "neighborhood.json",
+  "generation": "v1 local metric projection, inferred widths/speeds; procedural fictional architecture/businesses",
+  "requestedBounds": [
+    106.6331,
+    10.7937,
+    106.6402,
+    10.8005
+  ]
+}

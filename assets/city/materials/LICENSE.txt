@@ -1,0 +1,21 @@
+Poly Haven materials, CC0 1.0 Universal (public domain).
+https://polyhaven.com/license
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Painted Plaster Wall by Amal Kumar
+https://polyhaven.com/a/painted_plaster_wall
+1K diffuse, OpenGL normal and roughness maps.
+
+Asphalt 02 by Rob Tuytel
+https://polyhaven.com/a/asphalt_02
+1K diffuse, OpenGL normal and roughness maps.
+
+Downloaded through the asset's public download links on 4 November 2026.
+Maps retain their original content; local filenames identify material/map role.
+
+Additional 1K diffuse, OpenGL normal and roughness maps downloaded 4 November 2026:
+Painted Metal Shutter by Charlotte Baglioni, Dario Barresi and Rico Cilliers
+https://polyhaven.com/a/painted_metal_shutter
+Concrete Pavement 02 by Charlotte Baglioni
+https://polyhaven.com/a/concrete_pavement_02
+Both CC0 1.0 Universal under the Poly Haven license above.

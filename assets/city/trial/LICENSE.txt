@@ -1,0 +1,23 @@
+Trial assets acquired 4 November 2026. CC0 1.0 Universal.
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Poly Haven: https://polyhaven.com/license
+Exterior Aircon Unit by Monsta3D
+https://polyhaven.com/a/exterior_aircon_unit
+Rollershutter Door by MP
+https://polyhaven.com/a/rollershutter_door
+Utility Box 02 by James Ray Cock
+https://polyhaven.com/a/utility_box_02
+Plastic Monobloc Chair 01 by Kuutti Siitonen
+https://polyhaven.com/a/plastic_monobloc_chair_01
+Original 1K glTF sources repacked as self-contained GLBs; plain variants retained,
+origins centered horizontally and grounded. Geometry and PBR maps retained.
+
+Urban motor scooter, authored by Innerscene Corp (innerscene.com).
+Source GLB copyright dedicates it to the public domain under CC0 1.0 Universal.
+https://www.innerscene.com/tools/library/3d-parts/urban-motor-scooter-9dd945f9
+https://files.innerscene.com/library/urban-motor-scooter-9dd945f9/006f28087cc0c5d85bbc/urban-motor-scooter.glb
+Modified: reduced mesh density, resized embedded colour images to 1K, merged
+rigid parts, removed deployed stand, adapted orientation/axles/steering/grips
+to the fictional game scooter. No brand marks added. Source is not a vehicle
+physics specification. Preparation script: tools/prepare-trial-assets.py.
