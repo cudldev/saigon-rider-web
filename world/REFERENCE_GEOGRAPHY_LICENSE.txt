@@ -1,0 +1,12 @@
+Reference geography: © OpenStreetMap contributors, Overture Maps Foundation.
+Derived database licensed under ODbL 1.0: https://opendatacommons.org/licenses/odbl/1-0/
+Sources and applicable attribution: https://docs.overturemaps.org/attribution/
+
+OpenStreetMap snapshot: 2026-11-03; Overture release: 2026-10-21.0.
+Per-feature records retain source IDs, datasets, versions and confidence where available.
+This release includes older Google Open Buildings and Microsoft ML roof detections;
+the release date is not a street survey date. Roof outlines are not surveyed walls.
+
+Reference-only review data; unknown heights and ground use remain unknown.
+External landmark articles are linked as research references. Their images and text
+are not included as game textures, assets or reproduced articles.
